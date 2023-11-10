@@ -6,4 +6,4 @@
 - just run the main.py and the bot will do the attacking for you, no further input needed
 - troop placement and timing is randomized
 
-- currently, the bot only works for a 1440p resolution.
+- currently, the bot only works for 1080p and 1440p resolution.
